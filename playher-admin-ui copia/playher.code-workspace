@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../playher"
+		},
+		{
+			"path": "../PlayherStrapiProject"
+		},
+		{
+			"path": "../playher-backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
